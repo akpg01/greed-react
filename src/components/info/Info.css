@@ -1,0 +1,32 @@
+#info,
+.top10 {
+	z-index: 9;
+	background-color: #f1f1f1;
+	border: 1px solid #d3d3d3;
+	text-align: center;
+	display: none;
+	position: fixed;
+	top: 20%;
+	left: 70%;
+	width: 30em;
+	margin-top: -9em;
+	/*set to a negative number 1/2 of your height*/
+	margin-left: -15em;
+	/*set to a negative number 1/2 of your width*/
+	padding: 20px;
+}
+
+.gameInfo {
+	display: flex;
+	justify-content: flex-end;
+	align-content: center;
+}
+
+.gameRules a,
+.winnersCircle a {
+	color: white;
+	float: right;
+	cursor: pointer;
+	text-decoration: none;
+	margin: 15px;
+}
