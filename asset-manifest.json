@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/greed-react/static/css/main.06f19e8c.chunk.css",
+    "main.js": "/greed-react/static/js/main.bd422a84.chunk.js",
+    "main.js.map": "/greed-react/static/js/main.bd422a84.chunk.js.map",
+    "runtime~main.js": "/greed-react/static/js/runtime~main.53cd4dbc.js",
+    "runtime~main.js.map": "/greed-react/static/js/runtime~main.53cd4dbc.js.map",
+    "static/js/2.341655d5.chunk.js": "/greed-react/static/js/2.341655d5.chunk.js",
+    "static/js/2.341655d5.chunk.js.map": "/greed-react/static/js/2.341655d5.chunk.js.map",
+    "index.html": "/greed-react/index.html",
+    "precache-manifest.6328c97fffce88dba7ae3b5739d9ad24.js": "/greed-react/precache-manifest.6328c97fffce88dba7ae3b5739d9ad24.js",
+    "service-worker.js": "/greed-react/service-worker.js",
+    "static/css/main.06f19e8c.chunk.css.map": "/greed-react/static/css/main.06f19e8c.chunk.css.map"
+  }
+}
